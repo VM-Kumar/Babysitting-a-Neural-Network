@@ -5,6 +5,9 @@
 ![Untitled Diagram (1)](https://user-images.githubusercontent.com/70597312/103558044-13fb3780-4eda-11eb-89c4-110e88061717.png)
 
 
+![Untitled Diagram (1)](https://user-images.githubusercontent.com/70597312/103562872-d13d5d80-4ee1-11eb-8c81-bb51f90c7637.png)
+
+
 the content is organized as follows:
 
 1. [description_report.pdf](https://github.com/VM-Kumar/Babysitting-a-Neural-Network/blob/main/description_report.pdf) : detailed report on steps taken and results obtained on chosen face dataset.
